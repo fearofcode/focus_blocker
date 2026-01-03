@@ -6,10 +6,11 @@ This is an extremely simple Chrome extension that lets you block domains in Chro
 How to install
 --------------
 
+- Clone this repo: run `git clone` or click the green "Code" button and click "Download ZIP". If you downloaded a zip file, extract it to wherever you want the extension to be stored at.
 - Open Chrome Extensions: Type chrome://extensions in your address bar.
 - Enable Developer Mode: Toggle the switch in the top-right corner.
 - Load Unpacked: Click the "Load unpacked" button in the top-left.
-- Select Folder: Choose the folder you created.
+- Select Folder: Choose the folder where the extension files are located.
 
 To access the UI, the easiest way to do it is to click the Extensions button in the address bar, select the extension, then click the "S" icon that shows up. There you can add domains and remove any ones you want access to by clicking the "X" button next to the domain name.
 
