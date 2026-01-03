@@ -11,7 +11,7 @@ How to install
 - Load Unpacked: Click the "Load unpacked" button in the top-left.
 - Select Folder: Choose the folder you created.
 
-To access the UI, the easiest way to do it is to click the Extensions button in the address bar, select the extension, then click the "S" icon that shows up. There you can add domains and remove any ones youw ant access to.
+To access the UI, the easiest way to do it is to click the Extensions button in the address bar, select the extension, then click the "S" icon that shows up. There you can add domains and remove any ones you want access to by clicking the "X" button next to the domain name.
 
 Status and limitations
 ----------------------
