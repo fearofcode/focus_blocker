@@ -6,7 +6,7 @@ This is an extremely simple Chrome extension that lets you block domains in Chro
 How to install
 --------------
 
-- Clone this repo: run `git clone` or click the green "Code" button and click "Download ZIP". If you downloaded a zip file, extract it to wherever you want the extension to be stored at.
+- Clone this repo: run `git clone git@github.com:fearofcode/focus_blocker.git` in your terminal or click the green "Code" button and click "Download ZIP". If you downloaded a zip file, extract it to wherever you want the extension to be stored at.
 - Open Chrome Extensions: Type chrome://extensions in your address bar.
 - Enable Developer Mode: Toggle the switch in the top-right corner.
 - Load Unpacked: Click the "Load unpacked" button in the top-left.
