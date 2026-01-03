@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Focus Blocker",
+    "version": "1.0",
+    "description": "Blocks specific domains to prevent distractions without tracking usage.",
+    "permissions": [
+        "declarativeNetRequest",
+        "storage"
+    ],
+    "host_permissions": [],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
