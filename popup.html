@@ -9,12 +9,12 @@
 <body>
     <div style="width: 300px">
         <h3>Blocked Domains</h3>
-        <div>
-            <input type="text" placeholder="e.g. reddit.com">
-            <button>Block</button>
+        <div class="input-group">
+            <input type="text" id="domainInput" placeholder="e.g. reddit.com">
+            <button id="addBtn">Block</button>
         </div>
-        <ul></ul>
-        <p>Blocking applies to subdomains (e.g., old.reddit.com).</p>
+        <ul id="domainList"></ul>
+        <p class="hint">Blocking applies to subdomains (e.g., old.reddit.com).</p>
     </div>
     <script src="popup.js"></script>
 </body>
